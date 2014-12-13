@@ -1,0 +1,9 @@
+c:\users\zaid\documents\visual studio 2010\Projects\AmazaonScrapping\AmazaonScrapping\bin\Debug\AmazaonScrapping.exe
+c:\users\zaid\documents\visual studio 2010\Projects\AmazaonScrapping\AmazaonScrapping\bin\Debug\AmazaonScrapping.pdb
+c:\users\zaid\documents\visual studio 2010\Projects\AmazaonScrapping\AmazaonScrapping\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\zaid\documents\visual studio 2010\Projects\AmazaonScrapping\AmazaonScrapping\obj\x86\Debug\AmazaonScrapping.Form1.resources
+c:\users\zaid\documents\visual studio 2010\Projects\AmazaonScrapping\AmazaonScrapping\obj\x86\Debug\AmazaonScrapping.Properties.Resources.resources
+c:\users\zaid\documents\visual studio 2010\Projects\AmazaonScrapping\AmazaonScrapping\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\zaid\documents\visual studio 2010\Projects\AmazaonScrapping\AmazaonScrapping\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\zaid\documents\visual studio 2010\Projects\AmazaonScrapping\AmazaonScrapping\obj\x86\Debug\AmazaonScrapping.exe
+c:\users\zaid\documents\visual studio 2010\Projects\AmazaonScrapping\AmazaonScrapping\obj\x86\Debug\AmazaonScrapping.pdb
